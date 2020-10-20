@@ -19,12 +19,18 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Firebase
-        uses: w9jds/firebase-action@v1.5.0
+      - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
-          args: deploy --only hosting
-        env:
-          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+          repoToken: '${{ secrets.GITHUB_TOKEN }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_NICOLEZOK_COM }}'
+          projectId: nicolezok-com
+
+#       - name: Firebase
+#         uses: w9jds/firebase-action@v1.5.0
+#         with:
+#           args: deploy --only hosting
+#         env:
+#           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
 
       - name: Publish
         uses: peaceiris/actions-gh-pages@v3
