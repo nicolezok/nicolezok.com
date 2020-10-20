@@ -2,7 +2,7 @@ baseURL = "http://nicolezok.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hermit"
-publishDir = "docs" # for GitHub pages
+publishDir = "public"
 
 rssLimit = 10  # Maximum number of items in the RSS feed.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
