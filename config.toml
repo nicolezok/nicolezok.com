@@ -6,7 +6,7 @@ pygmentsCodefences = true
 pygmentsUseClasses = true
 rssLimit = 10
 theme = "hermit"
-title = "website"
+title = "Blog"
 [author]
 name = "Nicole Zok"
 [[menu.main]]
