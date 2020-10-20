@@ -7,8 +7,6 @@ tags:
 - untagged
 
 ---
-HELLO!!!!
+HELLO!!!
 
-I am Nicole Zok. :D
-
-turtle
+I am a turtle
