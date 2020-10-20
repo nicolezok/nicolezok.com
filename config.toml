@@ -3,3 +3,26 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hermit"
 publishDir = "docs" # for GitHub pages
+
+rssLimit = 10  # Maximum number of items in the RSS feed.
+enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+
+[author]
+  name = "Nicole Zok"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+
