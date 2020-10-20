@@ -24,6 +24,7 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_NICOLEZOK_COM }}'
           projectId: nicolezok-com
+          channelId: live
 
 #       - name: Firebase
 #         uses: w9jds/firebase-action@v1.5.0
