@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 images = ""
 tags = []
 title = "post 3"
