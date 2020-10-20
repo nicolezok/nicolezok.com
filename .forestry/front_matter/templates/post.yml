@@ -18,4 +18,5 @@ fields:
   name: tags
   label: tags
 pages:
+- content/posts/post-3.md
 - content/posts/title.md
