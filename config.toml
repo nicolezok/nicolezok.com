@@ -9,6 +9,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
 
+
 [author]
   name = "Nicole Zok"
 
