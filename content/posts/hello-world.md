@@ -1,14 +1,13 @@
 ---
-title: "Hello World"
-date: 2020-10-19T18:57:05-07:00
-draft: true
+title: Hello World
+date: 2020-10-19T18:57:05.000-07:00
 toc: false
-images:
-tags: 
-  - untagged
+images: 
+tags:
+- untagged
+draft: true
+
 ---
-
-
 HELLO!!!!
 
-I am Nicole.
+I am Nicole Zok. :D
