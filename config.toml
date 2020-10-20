@@ -1,28 +1,20 @@
 baseURL = "https://nicolezok.com"
+enableEmoji = true
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "hermit"
 publishDir = "public"
-
-rssLimit = 10  # Maximum number of items in the RSS feed.
-enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
-pygmentsCodefences  = true
-pygmentsUseClasses  = true
-
+pygmentsCodefences = true
+pygmentsUseClasses = true
+rssLimit = 10
+theme = "hermit"
+title = "website"
 [author]
-  name = "Nicole Zok"
-
+name = "Nicole Zok"
+[[menu.main]]
+name = "Posts"
+url = "posts/"
+weight = 10
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
-
-[menu]
-
-  [[menu.main]]
-    name = "Posts"
-    url = "posts/"
-    weight = 10
-
-
+dateform = "Jan 2, 2006"
+dateformNum = "2006-01-02"
+dateformNumTime = "2006-01-02 15:04 -0700"
+dateformShort = "Jan 2"
