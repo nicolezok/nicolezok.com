@@ -19,3 +19,4 @@ fields:
   label: tags
 pages:
 - content/posts/hello-world.md
+- content/posts/some-relationship-models-how-they-interact-and-my-best-guesses-at-what-to-do-about-the-problems-they-re-pointing-at.md
