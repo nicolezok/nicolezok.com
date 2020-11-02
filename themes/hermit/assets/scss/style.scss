@@ -777,50 +777,6 @@ a.footnote-ref {
 
 @media (min-width: 1300px) {
   .site-main {
-    margin-top: 8em;
-  }
-
-  .desktop-only,
-  #toc.show-toc {
-    display: block;
-  }
-
-  .desktop-only-ib {
-    display: inline-block;
-  }
-
-  figure.left {
-    margin-left: -240px;
-    p {
-      text-align: left;
-    }
-  }
-
-  figure.right {
-    margin-right: -240px;
-    p {
-      text-align: right;
-    }
-  }
-
-  figure.big {
-    width: 1200px;
-    margin-left: -240px;
-  }
-
-  hr.post-end {
-    width: 30%;
-  }
-
-  #toc {
-    top: 13em;
-    margin-left: 370px;
-    max-width: 220px;
-  }
-}
-
-@media (min-width: 1800px) {
-  .site-main {
     margin-top: 10em;
   }
 
