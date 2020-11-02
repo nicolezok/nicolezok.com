@@ -1,6 +1,5 @@
 +++
 date = 2020-11-01T07:00:00Z
-draft = true
 images = ""
 tags = []
 title = "Some relationship models, how they interact, and my best guesses at what to do about the problems they're pointing at"
