@@ -29,7 +29,7 @@ The NVC framework says that when you're communicating with someone you should tr
 
 Kind of like Gary Chapman's [5 love languages](https://www.5lovelanguages.com/), but less restricted. People have needs that fall into a lot of broad buckets: some overlap with Chapman's love languages (e.g. physical touch), but also I think it's helpful to apply this concept more broadly to the question of what's the best way to show your partner you love them (e.g. exploring together).
 
-A key feature of love buckets is that they are all leaky, but they leak at different rates. Some need to be filled every day, some once a month. It helps to know how leaky each of the buckets is so you can fill them at the right rates.
+A key feature of love buckets is that they are all leaky, but they leak at different rates. Some need to be filled every day, some once a month, etc. It helps to know how leaky each of the buckets is so you can fill them at the right rates.
 
 ### **Attachment theory**
 
@@ -56,8 +56,6 @@ People have different communication styles in terms of things like how rude it i
 ### **Meta-communication**
 
 One book about this is [_That's Not What I Meant!_](https://smile.amazon.com/Thats-What-Meant-Conversational-Relationships/dp/0062062999/) by Deborah Tannen. Things people say often have subtext that might not come across; e.g. if I ask you how your day was, I might be trying to communicate that I want to renew my sense of connection with you, and if you say you can't talk right now I might hear that to mean that you don't value maintaining our relationship, when what you really meant was that you have already committed to doing something else right now but you'd like to connect with me another time.
-
-I think this is basically a reframing of the NVC needs framework: in conversations we each have needs we're trying to fulfill and we don't always know explicitly what they are.
 
 ### **Expectations**
 
