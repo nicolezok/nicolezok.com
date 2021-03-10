@@ -1,6 +1,5 @@
 +++
 date = 2021-03-09T08:00:00Z
-draft = true
 images = ""
 tags = []
 title = "I think maybe the introvert/extrovert scale is bad"
